@@ -5,7 +5,19 @@ Hello welcome to GIT :)
 
 
 Edited the file.txt
+Humans
+Animals
+Rivers
+Plants
+Sun
+Moon
+
 
 Thank You
 
+
+done my changes
+
+=======
 done                
+
